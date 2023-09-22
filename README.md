@@ -1,15 +1,14 @@
 markdown
 # Hi there, I'm Uttam Kesarwani! 👋
-
-👂 Pronouns: He/Him
-- 🔭 I’m currently working on web development projects
-- 🌱 I’m currently learning React.js and Node.js
-- 🤝 I’m looking to collaborate on open-source web development projects
-- 🤔 I’m looking for help with mastering data structures and algorithms
-- 💬 Ask me about web development, problem-solving, and programming
-- 📫 How to reach me: [uttamkesarwani.5459@gmail.com](mailto:uttamkesarwani.5459@gmail.com)
-- ❤️ I love web development and problem-solving
+- 👋 My name is Uttam Kesarwani.
+- 🔭 I'm a Full Stack Web Developer and currently an undergraduate pursuing a Bachelor of Technology in Information Technology.
+- 🌍 I'm based in India.
+- 📫 You can reach me at [uttamkesarwani.5459@gmail.com](mailto:uttamkesarwani.5459@gmail.com).
+- 🧠 I'm actively learning Node.js and React.
+- 🤝 I'm open to collaborating on Front-End Technologies Based Projects.
+- ❤️ I love web development and problem-solving.
 - ⚡ Fun fact: I once solved 250+ problems on various online platforms!
+
 
 ## About Me
 
