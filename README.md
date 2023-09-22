@@ -43,11 +43,6 @@ My name is Uttam Kesarwani, and I'm a Full Stack Web Developer. I'm currently an
 
 
 
-## Badges
-
-[![GitHub followers](https://img.shields.io/github/followers/Uttamkesarwa-333?style=social)](https://github.com/Uttamkesarwa-333)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterUsername?style=social)](https://twitter.com/YourTwitterUsername)
-
 ## GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uttam-kesarwani333&theme=blood&border_radius=50)](https://git.io/streak-stats)
