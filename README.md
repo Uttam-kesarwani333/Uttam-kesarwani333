@@ -24,7 +24,7 @@ My name is Uttam Kesarwani, and I'm a Full Stack Web Developer. I'm currently an
 ## Technical Skills
 
 
-I have experience with the following technologies:
+
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)](https://www.cplusplus.com/)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)](https://www.oracle.com/java/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
