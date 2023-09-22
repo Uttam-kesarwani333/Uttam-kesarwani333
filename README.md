@@ -16,7 +16,7 @@
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uttam-kesarwani333&theme=dark&border_radius=50)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uttam-kesarwani333&theme=blood&border_radius=50)](https://git.io/streak-stats)
 
 
 
