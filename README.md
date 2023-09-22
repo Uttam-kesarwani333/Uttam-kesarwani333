@@ -51,4 +51,4 @@ I have experience with the following technologies:
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Uttamkesarwa-333&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uttam-kesarwani333&theme=blood&border_radius=50)](https://git.io/streak-stats)
