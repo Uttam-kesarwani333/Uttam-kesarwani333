@@ -9,7 +9,7 @@
 * 📫 How to reach me: uttamkesarwani.5459@gmail.com
 * ❤️ I love web development and problem-solving
 * ⚡ Fun fact: I once solved 250+ problems on various online platforms!
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uttam-kesarwani333)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uttam-kesarwani333&theme=onedark&border_radius=50)](https://git.io/streak-stats)
 
 ![GIF](relative-path-to-your-gif.gif)
 
