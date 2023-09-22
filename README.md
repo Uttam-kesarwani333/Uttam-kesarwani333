@@ -39,9 +39,12 @@ My name is Uttam Kesarwani, and I'm a Full Stack Web Developer. I'm currently an
 
 ## Socials
 
-- [LinkedIn](Your LinkedIn Profile URL)
-- [Twitter](Your Twitter Profile URL)
-- [Instagram](Your Instagram Profile URL)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](Your LinkedIn Profile URL)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](Your GitHub Profile URL)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode)](Your LeetCode Profile URL)
+- [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-0A0A0A?style=flat&logo=geeksforgeeks)](Your GeeksForGeeks Profile URL)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank)](Your HackerRank Profile URL)
+
 
 ## Badges
 
