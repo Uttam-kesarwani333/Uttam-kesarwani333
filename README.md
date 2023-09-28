@@ -43,6 +43,20 @@ My name is Uttam Kesarwani, and I'm a Full Stack Web Developer. I'm currently an
 
 
 
+
+
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uttam-kesarwani333&show_icons=true)](https://github.com/Uttam-kesarwani333/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam-kesarwani333)](https://github.com/Uttam-kesarwani333/github-readme-stats)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Uttam-kesarwani333&theme=github)](https://github.com/Uttam-kesarwani333)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Uttam-kesarwani333)](https://github.com/Uttam-kesarwani333)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Uttam-kesarwani333)](https://github.com/Uttam-kesarwani333)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uttam-kesarwani333&show_icons=true&hide=stars,issues,contribs)](https://github.com/Uttam-kesarwani333/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=Uttam-kesarwani333)
+
+
+
+
 ## GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uttam-kesarwani333&theme=blood&border_radius=50)](https://git.io/streak-stats)
