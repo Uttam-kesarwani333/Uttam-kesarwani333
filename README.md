@@ -1,27 +1,15 @@
 markdown
 # Hi there, I'm Uttam Kesarwani! 👋
-- 👋 My name is Uttam Kesarwani.
+- 👋 My name is Uttam Kesarwani, and I'm a Full Stack Web Developer. I'm currently an undergraduate pursuing a Bachelor of Technology in Information Technology. I'm also an art enthusiast, always eager to learn new skills, techniques, and gain experiences.
 - 🔭 I'm a Full Stack Web Developer and currently an undergraduate pursuing a Bachelor of Technology in Information Technology.
 - 🌍 I'm based in India.
 - 📫 You can reach me at [uttamkesarwani.5459@gmail.com](mailto:uttamkesarwani.5459@gmail.com).
 - 🧠 I'm actively learning Node.js and React.
-- 🤝 I'm open to collaborating on Front-End Technologies Based Projects.
+- 🤝 I'm open to collaborating on Front-End, Back-End and Full StackTechnologies Based Projects.
 - ❤️ I love web development and problem-solving.
 - ⚡ Fun fact: I once solved 250+ problems on various online platforms!
 
-
-## About Me
-
-My name is Uttam Kesarwani, and I'm a Full Stack Web Developer. I'm currently an undergraduate pursuing a Bachelor of Technology in Information Technology. I'm also an art enthusiast, always eager to learn new skills, techniques, and gain experiences.
-
-- 🔭 I'm currently focused on Full Stack Web Development.
-- 🌍 I'm based in India.
-- ✉️ You can reach me at [uttamkesarwani.5459@gmail.com](mailto:uttamkesarwani.5459@gmail.com).
-- 🧠 I'm actively learning Node.js and React.
-- 🤝 I'm open to collaborating on Front-End Technologies Based Projects.
-
 ## Technical Skills
-
 
 
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)](https://www.cplusplus.com/)
