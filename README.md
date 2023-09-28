@@ -46,3 +46,6 @@ My name is Uttam Kesarwani, and I'm a Full Stack Web Developer. I'm currently an
 ## GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uttam-kesarwani333&theme=blood&border_radius=50)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam-kesarwani333)](https://github.com/Uttam-kesarwani333/github-readme-stats)
+
