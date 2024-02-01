@@ -7,7 +7,7 @@ markdown
 - 🧠 I'm actively learning Node.js and React.
 - 🤝 I'm open to collaborating on Front-End, Back-End and Full StackTechnologies Based Projects.
 - ❤️ I love web development and problem-solving.
-- ⚡ Fun fact: I once solved 350+ problems on various online platforms! Like : [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/uttam333/) [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-0A0A0A?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/uttam333/practice/) 
+- ⚡ Fun fact: I once solved 450+ problems on various online platforms! Like : [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/uttam333/) [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-0A0A0A?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/uttam333/practice/) 
 
 ## Technical Skills
 
